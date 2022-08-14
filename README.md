@@ -61,4 +61,6 @@
 <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall60.jpg' alt='wall60' width=400px>
 <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall61.jpg' alt='wall61' width=400px>
 <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall62.png' alt='wall62' width=400px>
+<img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall63.jpg' alt='wall63' width=400px>
+<img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall64.jpg' alt='wall64' width=400px>
 </span>
