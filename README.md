@@ -1,8 +1,38 @@
+<div align = "center">
+
+<h1><a href="https://github.com/adityastomar67/Wallpapers">Walls</a></h1>
+
+<a href="https://github.com/adityastomar67/Wallpapers/blob/main/LICENSE.md">
+<img alt="License" src="https://img.shields.io/github/license/adityastomar67/Wallpapers?style=flat&color=eee&label="> </a>
+
+<a href="https://github.com/adityastomar67/Wallpapers/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/adityastomar67/Wallpapers?style=flat&color=ffaaf2&label=People"> </a>
+
+<a href="https://github.com/adityastomar67/Wallpapers/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/adityastomar67/Wallpapers?style=flat&color=98c379&label=Stars"></a>
+
+<a href="https://github.com/adityastomar67/Wallpapers/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/adityastomar67/Wallpapers?style=flat&color=66a8e0&label=Forks"> </a>
+
+<a href="https://github.com/adityastomar67/Wallpapers/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/adityastomar67/Wallpapers?style=flat&color=f5d08b&label=Watches"> </a>
+
+<a href="https://github.com/adityastomar67/Wallpapers/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/adityastomar67/Wallpapers?style=flat&color=e06c75&label="> </a>
+
+<h3>Personal Wallpapers Collection</h3>
+  Hit the ⭐ button if you like the collection.
+  
+<h3> Hand selected pieces of wallpapers and live images from all over the internet. </h3>
+</div>
+
+## Screenshots
+
 <span>
-    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall1.jpg' alt='wall1' width=400px>
-    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall2.jpg' alt='wall2' width=400px>
-    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall3.jpg' alt='wall3' width=400px>
-    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall4.jpg' alt='wall4' width=400px>
+    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall1.jpg' alt='wall1' width=300px>
+    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall2.jpg' alt='wall2' width=300px>
+    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall3.jpg' alt='wall3' width=300px>
+    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall4.jpg' alt='wall4' width=300px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall5.jpg' alt='wall5' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall6.jpg' alt='wall6' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall7.jpg' alt='wall7' width=400px>
