@@ -29,10 +29,10 @@
 ## Screenshots
 
 <span>
-    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall1.jpg' alt='wall1' width=300px>
-    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall2.jpg' alt='wall2' width=300px>
-    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall3.jpg' alt='wall3' width=300px>
-    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall4.jpg' alt='wall4' width=300px>
+    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall1.jpg' alt='wall1' width=400px>
+    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall2.jpg' alt='wall2' width=400px>
+    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall3.jpg' alt='wall3' width=400px>
+    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall4.jpg' alt='wall4' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall5.jpg' alt='wall5' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall6.jpg' alt='wall6' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/wall7.jpg' alt='wall7' width=400px>
