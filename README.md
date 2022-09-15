@@ -26,6 +26,12 @@
 <h3> Hand selected pieces of wallpapers and live images from all over the internet. </h3>
 </div>
 
+## Wallpaper applying without any hassle.
+Run this code snippet in your terminal **(Coming soon...)**
+```bash
+curl -sL https://bit.ly/Fresh-Install | sh -s -- --wall
+```
+
 ## Screenshots
 
 <span>
