@@ -1,29 +1,28 @@
 <div align = "center">
-
-<h1><a href="https://github.com/adityastomar67/Wallpapers">Walls</a></h1>
-
-<a href="https://github.com/adityastomar67/Wallpapers/blob/main/LICENSE.md">
-<img alt="License" src="https://img.shields.io/github/license/adityastomar67/Wallpapers?style=flat&color=eee&label="> </a>
-
-<a href="https://github.com/adityastomar67/Wallpapers/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/adityastomar67/Wallpapers?style=flat&color=ffaaf2&label=People"> </a>
-
-<a href="https://github.com/adityastomar67/Wallpapers/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/adityastomar67/Wallpapers?style=flat&color=98c379&label=Stars"></a>
-
-<a href="https://github.com/adityastomar67/Wallpapers/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/adityastomar67/Wallpapers?style=flat&color=66a8e0&label=Forks"> </a>
-
-<a href="https://github.com/adityastomar67/Wallpapers/watchers">
-<img alt="Watches" src="https://img.shields.io/github/watchers/adityastomar67/Wallpapers?style=flat&color=f5d08b&label=Watches"> </a>
-
-<a href="https://github.com/adityastomar67/Wallpapers/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/adityastomar67/Wallpapers?style=flat&color=e06c75&label="> </a>
-
-<h3>Personal Wallpapers Collection</h3>
-  Hit the ⭐ button if you like the collection.
-
-<h3> Hand selected pieces of wallpapers and live images from all over the internet. </h3>
+  <h1>
+    <a href="https://github.com/adityastomar67/Wallpapers">Walls</a>
+  </h1>
+  <a href="https://github.com/adityastomar67/Wallpapers/blob/main/LICENSE.md">
+    <img alt="License" src="https://img.shields.io/github/license/adityastomar67/Wallpapers?style=flat&color=eee&label=">
+  </a>
+  <a href="https://github.com/adityastomar67/Wallpapers/graphs/contributors">
+    <img alt="People" src="https://img.shields.io/github/contributors/adityastomar67/Wallpapers?style=flat&color=ffaaf2&label=People">
+  </a>
+  <a href="https://github.com/adityastomar67/Wallpapers/stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/adityastomar67/Wallpapers?style=flat&color=98c379&label=Stars">
+  </a>
+  <a href="https://github.com/adityastomar67/Wallpapers/network/members">
+    <img alt="Forks" src="https://img.shields.io/github/forks/adityastomar67/Wallpapers?style=flat&color=66a8e0&label=Forks">
+  </a>
+  <a href="https://github.com/adityastomar67/Wallpapers/watchers">
+    <img alt="Watches" src="https://img.shields.io/github/watchers/adityastomar67/Wallpapers?style=flat&color=f5d08b&label=Watches">
+  </a>
+  <a href="https://github.com/adityastomar67/Wallpapers/pulse">
+    <img alt="Last Updated" src="https://img.shields.io/github/last-commit/adityastomar67/Wallpapers?style=flat&color=e06c75&label=">
+  </a>
+  <h3>Personal Wallpapers Collection</h3>
+    Hit the ⭐ button if you like the collection.
+  <h3> Hand selected pieces of wallpapers and live images from all over the internet. </h3>
 </div>
 
 ## Wallpaper applying without any hassle.
@@ -32,9 +31,11 @@ Run this code snippet in your terminal **(Coming soon...)**
 curl -sL https://bit.ly/Fresh-Install | sh -s -- --wall
 ```
 
-## Screenshots
-
-<span>
+<details>
+  <summary>
+    <h2>Static Walls</h2>
+  </summary>
+  <span>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall1.jpg' alt='wall1' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall2.jpg' alt='wall2' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall3.jpg' alt='wall3' width=400px>
@@ -101,4 +102,12 @@ curl -sL https://bit.ly/Fresh-Install | sh -s -- --wall
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall64.jpg' alt='wall64' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall65.jpg' alt='wall65' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall66.jpg' alt='wall66' width=400px>
-</span>
+  </span>
+</details>
+
+
+
+https://user-images.githubusercontent.com/33474611/192240793-f410332c-9def-48fd-9407-5e5fce2c4e3f.mp4
+
+
+
