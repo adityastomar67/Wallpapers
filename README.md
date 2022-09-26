@@ -105,9 +105,33 @@ curl -sL https://bit.ly/Fresh-Install | sh -s -- --wall
   </span>
 </details>
 
+<details>
+  <summary>
+    <h2>Live Walls</h2>
+  </summary>
+  
+> Note: These below are compressed files, to download in original quality, simply download or clone the repo or use above link to install
 
+https://user-images.githubusercontent.com/33474611/192243445-008ca13c-f614-46d2-ba5e-6dd86f5a3b48.mp4
 
-https://user-images.githubusercontent.com/33474611/192240793-f410332c-9def-48fd-9407-5e5fce2c4e3f.mp4
+https://user-images.githubusercontent.com/33474611/192243474-4cf00d93-303b-4d13-b7d1-39fd0daa4015.mp4
 
+https://user-images.githubusercontent.com/33474611/192243478-258d884c-72af-431f-baa4-2345aaa6e754.mp4
 
+https://user-images.githubusercontent.com/33474611/192243485-0cb16514-cbd8-444a-b7be-dc1b22086b71.mp4
 
+https://user-images.githubusercontent.com/33474611/192243497-3b0bd385-d430-4c5b-80af-b2c5b94da0d8.mp4
+
+https://user-images.githubusercontent.com/33474611/192243528-f3531a77-2248-4f30-9cd4-523d3737e583.mp4
+
+https://user-images.githubusercontent.com/33474611/192243531-c2d43a57-8962-4883-b49a-d65e30237ce0.mp4
+
+https://user-images.githubusercontent.com/33474611/192243549-f92b7655-565b-48f8-9b7f-0ff33c3a4a8e.mp4
+
+https://user-images.githubusercontent.com/33474611/192243561-2f4bacba-8f54-4dee-831c-87305eaa8188.mp4
+
+https://user-images.githubusercontent.com/33474611/192243581-e8e7850b-62c6-4ab1-9c8d-51ce6d4d6809.mp4
+
+https://user-images.githubusercontent.com/33474611/192243596-20e3cb2b-b263-4cd1-914f-d431740083c2.mp4
+
+</details>
