@@ -108,11 +108,11 @@ curl -sL https://bit.ly/Fresh-Install | sh -s -- --wall
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall70.jpg' alt='wall70' width=400px>    
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall71.jpg' alt='wall71' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall72.jpg' alt='wall72' width=400px>
-    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall73.jpg' alt='wall73' width=400px>
+    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall73.png' alt='wall73' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall74.jpg' alt='wall74' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall75.jpg' alt='wall75' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall76.jpg' alt='wall76' width=400px>
-    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall77.jpg' alt='wall77' width=400px>
+    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall77.png' alt='wall77' width=400px>
   </span>
 </details>
 
