@@ -38,6 +38,7 @@ curl -sL https://bit.ly/Fresh-Install | sh -s -- --wall
 
 <!-- AUTO-GENERATED-STATIC-START -->
 <span>
+    <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/Wall.png' alt='Wall' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall1.jpg' alt='wall1' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall10.jpg' alt='wall10' width=400px>
     <img src='https://github.com/adityastomar67/Wallpapers/blob/main/Static/wall100.png' alt='wall100' width=400px>
