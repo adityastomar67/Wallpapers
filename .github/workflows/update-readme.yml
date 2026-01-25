@@ -4,7 +4,10 @@ on:
   push:
     paths:
       - "Static/**"
-  workflow_dispatch: # allows manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write  # <--- Required to allow the bot to push changes
 
 jobs:
   update-readme:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Ensures we have full history for the rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -20,17 +25,23 @@ jobs:
 
       - name: Run update script
         run: |
-          chmod +x .github/scripts/update_readme.py
-          python .github/scripts/update_readme.py
+          # Ensure script is executable and run it
+          chmod +x update_readme.py 
+          python update_readme.py
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
           if [[ `git status --porcelain` ]]; then
             git add README.md
             git commit -m "🪄 Auto-update README with new wallpapers"
-            git push
+            
+            # Pull latest changes to fix "fetch first" error
+            git pull --rebase origin main
+            
+            git push origin main
           else
             echo "No changes to commit."
           fi
