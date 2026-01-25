@@ -155,6 +155,7 @@ curl -sL https://bit.ly/Fresh-Install | sh -s -- --wall
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall200.jpg&w=400&output=webp' alt='wall200'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall201.jpg&w=400&output=webp' alt='wall201'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall202.jpg&w=400&output=webp' alt='wall202'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall203.jpg&w=400&output=webp' alt='wall203'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall21.png&w=400&output=webp' alt='wall21'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall22.png&w=400&output=webp' alt='wall22'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall23.jpg&w=400&output=webp' alt='wall23'>
