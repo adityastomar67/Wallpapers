@@ -2,7 +2,7 @@
 import os
 from pathlib import Path
 
-REPO_URL = "github.com/adityastomar67/Wallpapers/blob/main"
+REPO_URL = "raw.githubusercontent.com/adityastomar67/Wallpapers/main"
 STATIC_DIR = "Static"
 README_PATH = "README.md"
 
