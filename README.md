@@ -38,53 +38,145 @@ curl -sL https://bit.ly/Fresh-Install | sh -s -- --wall
 
 <!-- AUTO-GENERATED-STATIC-START -->
 <span>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/Wall.png&w=400&output=webp' alt='Wall'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall1.jpg&w=400&output=webp' alt='wall1'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall10.jpg&w=400&output=webp' alt='wall10'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall100.png&w=400&output=webp' alt='wall100'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall101.png&w=400&output=webp' alt='wall101'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall102.png&w=400&output=webp' alt='wall102'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall103.png&w=400&output=webp' alt='wall103'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall104.png&w=400&output=webp' alt='wall104'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall105.png&w=400&output=webp' alt='wall105'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall106.png&w=400&output=webp' alt='wall106'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall107.png&w=400&output=webp' alt='wall107'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall108.png&w=400&output=webp' alt='wall108'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall109.png&w=400&output=webp' alt='wall109'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall11.jpg&w=400&output=webp' alt='wall11'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall110.png&w=400&output=webp' alt='wall110'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall111.png&w=400&output=webp' alt='wall111'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall112.png&w=400&output=webp' alt='wall112'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall113.png&w=400&output=webp' alt='wall113'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall114.png&w=400&output=webp' alt='wall114'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall115.png&w=400&output=webp' alt='wall115'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall116.png&w=400&output=webp' alt='wall116'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall117.png&w=400&output=webp' alt='wall117'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall118.png&w=400&output=webp' alt='wall118'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall001.png&w=400&output=webp' alt='wall001'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall002.jpg&w=400&output=webp' alt='wall002'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall003.jpg&w=400&output=webp' alt='wall003'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall004.png&w=400&output=webp' alt='wall004'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall005.png&w=400&output=webp' alt='wall005'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall006.png&w=400&output=webp' alt='wall006'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall007.png&w=400&output=webp' alt='wall007'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall008.png&w=400&output=webp' alt='wall008'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall009.png&w=400&output=webp' alt='wall009'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall010.png&w=400&output=webp' alt='wall010'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall011.png&w=400&output=webp' alt='wall011'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall012.png&w=400&output=webp' alt='wall012'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall013.png&w=400&output=webp' alt='wall013'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall014.jpg&w=400&output=webp' alt='wall014'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall015.png&w=400&output=webp' alt='wall015'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall016.png&w=400&output=webp' alt='wall016'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall017.png&w=400&output=webp' alt='wall017'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall018.png&w=400&output=webp' alt='wall018'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall019.png&w=400&output=webp' alt='wall019'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall020.png&w=400&output=webp' alt='wall020'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall021.png&w=400&output=webp' alt='wall021'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall022.png&w=400&output=webp' alt='wall022'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall023.png&w=400&output=webp' alt='wall023'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall024.png&w=400&output=webp' alt='wall024'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall025.jpg&w=400&output=webp' alt='wall025'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall026.png&w=400&output=webp' alt='wall026'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall027.png&w=400&output=webp' alt='wall027'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall028.png&w=400&output=webp' alt='wall028'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall029.png&w=400&output=webp' alt='wall029'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall030.png&w=400&output=webp' alt='wall030'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall031.png&w=400&output=webp' alt='wall031'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall032.png&w=400&output=webp' alt='wall032'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall033.png&w=400&output=webp' alt='wall033'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall034.png&w=400&output=webp' alt='wall034'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall035.png&w=400&output=webp' alt='wall035'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall036.jpg&w=400&output=webp' alt='wall036'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall037.png&w=400&output=webp' alt='wall037'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall038.png&w=400&output=webp' alt='wall038'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall039.png&w=400&output=webp' alt='wall039'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall040.png&w=400&output=webp' alt='wall040'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall041.png&w=400&output=webp' alt='wall041'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall042.png&w=400&output=webp' alt='wall042'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall043.png&w=400&output=webp' alt='wall043'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall044.jpeg&w=400&output=webp' alt='wall044'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall045.jpeg&w=400&output=webp' alt='wall045'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall046.jpg&w=400&output=webp' alt='wall046'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall047.jpg&w=400&output=webp' alt='wall047'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall048.jpg&w=400&output=webp' alt='wall048'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall049.jpg&w=400&output=webp' alt='wall049'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall050.jpg&w=400&output=webp' alt='wall050'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall051.jpg&w=400&output=webp' alt='wall051'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall052.jpg&w=400&output=webp' alt='wall052'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall053.jpg&w=400&output=webp' alt='wall053'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall054.jpg&w=400&output=webp' alt='wall054'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall055.jpg&w=400&output=webp' alt='wall055'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall056.jpg&w=400&output=webp' alt='wall056'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall057.jpg&w=400&output=webp' alt='wall057'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall058.jpg&w=400&output=webp' alt='wall058'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall059.jpg&w=400&output=webp' alt='wall059'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall060.jpg&w=400&output=webp' alt='wall060'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall061.jpg&w=400&output=webp' alt='wall061'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall062.jpg&w=400&output=webp' alt='wall062'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall063.jpg&w=400&output=webp' alt='wall063'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall064.jpg&w=400&output=webp' alt='wall064'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall065.jpg&w=400&output=webp' alt='wall065'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall066.jpg&w=400&output=webp' alt='wall066'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall067.jpg&w=400&output=webp' alt='wall067'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall068.jpg&w=400&output=webp' alt='wall068'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall069.jpg&w=400&output=webp' alt='wall069'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall070.jpg&w=400&output=webp' alt='wall070'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall071.jpg&w=400&output=webp' alt='wall071'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall072.jpg&w=400&output=webp' alt='wall072'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall073.jpg&w=400&output=webp' alt='wall073'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall074.jpg&w=400&output=webp' alt='wall074'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall075.jpg&w=400&output=webp' alt='wall075'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall076.jpg&w=400&output=webp' alt='wall076'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall077.jpg&w=400&output=webp' alt='wall077'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall078.jpg&w=400&output=webp' alt='wall078'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall079.jpg&w=400&output=webp' alt='wall079'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall080.png&w=400&output=webp' alt='wall080'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall081.jpg&w=400&output=webp' alt='wall081'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall082.jpg&w=400&output=webp' alt='wall082'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall083.jpg&w=400&output=webp' alt='wall083'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall084.jpg&w=400&output=webp' alt='wall084'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall085.jpg&w=400&output=webp' alt='wall085'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall086.jpg&w=400&output=webp' alt='wall086'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall087.jpg&w=400&output=webp' alt='wall087'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall088.jpg&w=400&output=webp' alt='wall088'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall089.jpg&w=400&output=webp' alt='wall089'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall090.jpg&w=400&output=webp' alt='wall090'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall091.jpg&w=400&output=webp' alt='wall091'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall092.jpg&w=400&output=webp' alt='wall092'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall093.jpg&w=400&output=webp' alt='wall093'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall094.jpg&w=400&output=webp' alt='wall094'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall095.jpg&w=400&output=webp' alt='wall095'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall096.jpg&w=400&output=webp' alt='wall096'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall097.jpg&w=400&output=webp' alt='wall097'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall098.jpg&w=400&output=webp' alt='wall098'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall099.jpg&w=400&output=webp' alt='wall099'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall100.jpg&w=400&output=webp' alt='wall100'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall101.jpg&w=400&output=webp' alt='wall101'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall102.jpg&w=400&output=webp' alt='wall102'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall103.jpg&w=400&output=webp' alt='wall103'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall104.jpg&w=400&output=webp' alt='wall104'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall105.jpg&w=400&output=webp' alt='wall105'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall106.jpg&w=400&output=webp' alt='wall106'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall107.jpg&w=400&output=webp' alt='wall107'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall108.jpg&w=400&output=webp' alt='wall108'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall109.jpg&w=400&output=webp' alt='wall109'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall110.jpg&w=400&output=webp' alt='wall110'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall111.jpg&w=400&output=webp' alt='wall111'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall112.jpg&w=400&output=webp' alt='wall112'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall113.jpg&w=400&output=webp' alt='wall113'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall114.jpg&w=400&output=webp' alt='wall114'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall115.jpg&w=400&output=webp' alt='wall115'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall116.jpg&w=400&output=webp' alt='wall116'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall117.jpg&w=400&output=webp' alt='wall117'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall118.jpg&w=400&output=webp' alt='wall118'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall119.png&w=400&output=webp' alt='wall119'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall12.jpg&w=400&output=webp' alt='wall12'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall120.png&w=400&output=webp' alt='wall120'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall121.png&w=400&output=webp' alt='wall121'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall121.jpg&w=400&output=webp' alt='wall121'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall122.png&w=400&output=webp' alt='wall122'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall123.png&w=400&output=webp' alt='wall123'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall124.png&w=400&output=webp' alt='wall124'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall125.png&w=400&output=webp' alt='wall125'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall126.png&w=400&output=webp' alt='wall126'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall123.jpg&w=400&output=webp' alt='wall123'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall124.jpg&w=400&output=webp' alt='wall124'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall125.jpg&w=400&output=webp' alt='wall125'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall126.jpg&w=400&output=webp' alt='wall126'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall127.png&w=400&output=webp' alt='wall127'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall128.png&w=400&output=webp' alt='wall128'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall129.png&w=400&output=webp' alt='wall129'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall13.jpg&w=400&output=webp' alt='wall13'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall130.png&w=400&output=webp' alt='wall130'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall131.png&w=400&output=webp' alt='wall131'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall132.png&w=400&output=webp' alt='wall132'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall133.png&w=400&output=webp' alt='wall133'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall134.png&w=400&output=webp' alt='wall134'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall135.png&w=400&output=webp' alt='wall135'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall136.png&w=400&output=webp' alt='wall136'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall137.jpeg&w=400&output=webp' alt='wall137'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall138.jpeg&w=400&output=webp' alt='wall138'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall128.jpg&w=400&output=webp' alt='wall128'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall129.jpg&w=400&output=webp' alt='wall129'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall130.jpg&w=400&output=webp' alt='wall130'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall131.jpg&w=400&output=webp' alt='wall131'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall132.jpg&w=400&output=webp' alt='wall132'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall133.jpg&w=400&output=webp' alt='wall133'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall134.jpg&w=400&output=webp' alt='wall134'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall135.jpg&w=400&output=webp' alt='wall135'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall136.jpg&w=400&output=webp' alt='wall136'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall137.jpg&w=400&output=webp' alt='wall137'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall138.jpg&w=400&output=webp' alt='wall138'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall139.jpg&w=400&output=webp' alt='wall139'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall14.jpg&w=400&output=webp' alt='wall14'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall140.jpg&w=400&output=webp' alt='wall140'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall141.jpg&w=400&output=webp' alt='wall141'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall142.jpg&w=400&output=webp' alt='wall142'>
@@ -95,7 +187,6 @@ curl -sL https://bit.ly/Fresh-Install | sh -s -- --wall
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall147.jpg&w=400&output=webp' alt='wall147'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall148.jpg&w=400&output=webp' alt='wall148'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall149.jpg&w=400&output=webp' alt='wall149'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall15.jpg&w=400&output=webp' alt='wall15'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall150.jpg&w=400&output=webp' alt='wall150'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall151.jpg&w=400&output=webp' alt='wall151'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall152.jpg&w=400&output=webp' alt='wall152'>
@@ -106,30 +197,27 @@ curl -sL https://bit.ly/Fresh-Install | sh -s -- --wall
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall157.jpg&w=400&output=webp' alt='wall157'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall158.jpg&w=400&output=webp' alt='wall158'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall159.jpg&w=400&output=webp' alt='wall159'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall16.jpg&w=400&output=webp' alt='wall16'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall160.jpg&w=400&output=webp' alt='wall160'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall161.jpg&w=400&output=webp' alt='wall161'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall162.jpg&w=400&output=webp' alt='wall162'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall163.jpg&w=400&output=webp' alt='wall163'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall164.jpg&w=400&output=webp' alt='wall164'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall164.png&w=400&output=webp' alt='wall164'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall165.jpg&w=400&output=webp' alt='wall165'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall166.jpg&w=400&output=webp' alt='wall166'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall167.jpg&w=400&output=webp' alt='wall167'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall168.jpg&w=400&output=webp' alt='wall168'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall169.jpg&w=400&output=webp' alt='wall169'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall17.png&w=400&output=webp' alt='wall17'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall170.jpg&w=400&output=webp' alt='wall170'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall171.jpg&w=400&output=webp' alt='wall171'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall172.jpg&w=400&output=webp' alt='wall172'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall173.jpg&w=400&output=webp' alt='wall173'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall174.jpg&w=400&output=webp' alt='wall174'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall175.jpg&w=400&output=webp' alt='wall175'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall176.jpg&w=400&output=webp' alt='wall176'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall176.png&w=400&output=webp' alt='wall176'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall177.jpg&w=400&output=webp' alt='wall177'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall178.jpg&w=400&output=webp' alt='wall178'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall179.jpg&w=400&output=webp' alt='wall179'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall18.jpg&w=400&output=webp' alt='wall18'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall180.jpg&w=400&output=webp' alt='wall180'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall180.png&w=400&output=webp' alt='wall180'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall181.jpg&w=400&output=webp' alt='wall181'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall182.jpg&w=400&output=webp' alt='wall182'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall183.jpg&w=400&output=webp' alt='wall183'>
@@ -137,111 +225,23 @@ curl -sL https://bit.ly/Fresh-Install | sh -s -- --wall
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall185.jpg&w=400&output=webp' alt='wall185'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall186.jpg&w=400&output=webp' alt='wall186'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall187.jpg&w=400&output=webp' alt='wall187'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall188.jpg&w=400&output=webp' alt='wall188'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall188.png&w=400&output=webp' alt='wall188'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall189.jpg&w=400&output=webp' alt='wall189'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall19.jpg&w=400&output=webp' alt='wall19'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall190.jpg&w=400&output=webp' alt='wall190'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall191.jpg&w=400&output=webp' alt='wall191'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall192.jpg&w=400&output=webp' alt='wall192'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall193.jpg&w=400&output=webp' alt='wall193'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall194.jpg&w=400&output=webp' alt='wall194'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall195.jpg&w=400&output=webp' alt='wall195'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall196.jpg&w=400&output=webp' alt='wall196'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall197.jpg&w=400&output=webp' alt='wall197'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall195.png&w=400&output=webp' alt='wall195'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall196.png&w=400&output=webp' alt='wall196'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall197.png&w=400&output=webp' alt='wall197'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall198.jpg&w=400&output=webp' alt='wall198'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall199.jpg&w=400&output=webp' alt='wall199'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall2.jpg&w=400&output=webp' alt='wall2'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall20.jpg&w=400&output=webp' alt='wall20'>
     <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall200.jpg&w=400&output=webp' alt='wall200'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall201.jpg&w=400&output=webp' alt='wall201'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall202.jpg&w=400&output=webp' alt='wall202'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall203.jpg&w=400&output=webp' alt='wall203'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall21.png&w=400&output=webp' alt='wall21'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall22.png&w=400&output=webp' alt='wall22'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall23.jpg&w=400&output=webp' alt='wall23'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall24.png&w=400&output=webp' alt='wall24'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall25.jpg&w=400&output=webp' alt='wall25'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall26.jpg&w=400&output=webp' alt='wall26'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall27.jpg&w=400&output=webp' alt='wall27'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall28.jpg&w=400&output=webp' alt='wall28'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall29.png&w=400&output=webp' alt='wall29'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall3.jpg&w=400&output=webp' alt='wall3'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall30.jpg&w=400&output=webp' alt='wall30'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall31.jpg&w=400&output=webp' alt='wall31'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall32.jpg&w=400&output=webp' alt='wall32'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall33.jpg&w=400&output=webp' alt='wall33'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall34.jpg&w=400&output=webp' alt='wall34'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall35.jpg&w=400&output=webp' alt='wall35'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall36.jpg&w=400&output=webp' alt='wall36'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall37.jpg&w=400&output=webp' alt='wall37'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall38.jpg&w=400&output=webp' alt='wall38'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall39.jpg&w=400&output=webp' alt='wall39'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall4.jpg&w=400&output=webp' alt='wall4'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall40.jpg&w=400&output=webp' alt='wall40'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall41.jpg&w=400&output=webp' alt='wall41'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall42.jpg&w=400&output=webp' alt='wall42'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall43.jpg&w=400&output=webp' alt='wall43'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall44.jpg&w=400&output=webp' alt='wall44'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall45.jpg&w=400&output=webp' alt='wall45'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall46.jpg&w=400&output=webp' alt='wall46'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall47.jpg&w=400&output=webp' alt='wall47'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall48.jpg&w=400&output=webp' alt='wall48'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall49.jpg&w=400&output=webp' alt='wall49'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall5.jpg&w=400&output=webp' alt='wall5'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall50.jpg&w=400&output=webp' alt='wall50'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall51.jpg&w=400&output=webp' alt='wall51'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall52.jpg&w=400&output=webp' alt='wall52'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall53.jpg&w=400&output=webp' alt='wall53'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall54.jpg&w=400&output=webp' alt='wall54'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall55.jpg&w=400&output=webp' alt='wall55'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall56.jpg&w=400&output=webp' alt='wall56'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall57.jpg&w=400&output=webp' alt='wall57'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall58.jpg&w=400&output=webp' alt='wall58'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall59.jpg&w=400&output=webp' alt='wall59'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall6.jpg&w=400&output=webp' alt='wall6'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall60.jpg&w=400&output=webp' alt='wall60'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall61.jpg&w=400&output=webp' alt='wall61'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall62.png&w=400&output=webp' alt='wall62'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall63.jpg&w=400&output=webp' alt='wall63'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall64.jpg&w=400&output=webp' alt='wall64'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall65.jpg&w=400&output=webp' alt='wall65'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall66.jpg&w=400&output=webp' alt='wall66'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall67.jpg&w=400&output=webp' alt='wall67'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall68.jpg&w=400&output=webp' alt='wall68'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall69.jpg&w=400&output=webp' alt='wall69'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall7.jpg&w=400&output=webp' alt='wall7'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall70.jpg&w=400&output=webp' alt='wall70'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall71.jpg&w=400&output=webp' alt='wall71'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall72.jpg&w=400&output=webp' alt='wall72'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall73.png&w=400&output=webp' alt='wall73'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall74.jpg&w=400&output=webp' alt='wall74'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall75.jpg&w=400&output=webp' alt='wall75'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall76.jpg&w=400&output=webp' alt='wall76'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall77.png&w=400&output=webp' alt='wall77'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall78.jpg&w=400&output=webp' alt='wall78'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall79.jpg&w=400&output=webp' alt='wall79'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall8.jpg&w=400&output=webp' alt='wall8'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall80.jpg&w=400&output=webp' alt='wall80'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall81.jpg&w=400&output=webp' alt='wall81'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall82.jpg&w=400&output=webp' alt='wall82'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall83.jpg&w=400&output=webp' alt='wall83'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall84.png&w=400&output=webp' alt='wall84'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall85.jpg&w=400&output=webp' alt='wall85'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall86.jpg&w=400&output=webp' alt='wall86'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall87.jpg&w=400&output=webp' alt='wall87'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall88.jpg&w=400&output=webp' alt='wall88'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall89.jpg&w=400&output=webp' alt='wall89'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall9.jpg&w=400&output=webp' alt='wall9'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall90.png&w=400&output=webp' alt='wall90'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall91.png&w=400&output=webp' alt='wall91'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall92.png&w=400&output=webp' alt='wall92'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall93.jpg&w=400&output=webp' alt='wall93'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall94.jpg&w=400&output=webp' alt='wall94'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall95.jpg&w=400&output=webp' alt='wall95'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall96.png&w=400&output=webp' alt='wall96'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall97.png&w=400&output=webp' alt='wall97'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall98.png&w=400&output=webp' alt='wall98'>
-    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall99.png&w=400&output=webp' alt='wall99'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall201.png&w=400&output=webp' alt='wall201'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall202.png&w=400&output=webp' alt='wall202'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall203.png&w=400&output=webp' alt='wall203'>
+    <img src='https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall204.png&w=400&output=webp' alt='wall204'>
   </span>
 <!-- AUTO-GENERATED-STATIC-END -->
 
