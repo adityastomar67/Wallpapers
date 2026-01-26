@@ -28,7 +28,7 @@
 ## Wallpaper applying without any hassle.
 Run this code snippet in your terminal **(Coming soon...)**
 ```bash
-curl -sL https://bit.ly/Fresh-Install | sh -s -- --wall
+curl -sL https://bit.ly/RandomWall | zsh
 ```
 
 <details>
