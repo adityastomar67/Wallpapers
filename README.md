@@ -1431,6 +1431,12 @@ curl -sL https://bit.ly/RandomWall | zsh
       </a>
       <br><sub>wall209</sub>
     </td>
+    <td align="center" width="33%">
+      <a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall210.png">
+        <img src="https://wsrv.nl/?url=raw.githubusercontent.com/adityastomar67/Wallpapers/main/Static/wall210.png&w=400&h=400&fit=cover&a=attention&output=webp" alt="wall210" width="100%">
+      </a>
+      <br><sub>wall210</sub>
+    </td>
   </tr>
 </table>
 <!-- AUTO-GENERATED-STATIC-END -->
