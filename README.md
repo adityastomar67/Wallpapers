@@ -1438,54 +1438,140 @@ curl -sL https://bit.ly/RandomWall | zsh
   
 > Note: These below are compressed files, to download in original quality, simply download or clone the repo or use above link to install
 
-https://user-images.githubusercontent.com/33474611/192243445-008ca13c-f614-46d2-ba5e-6dd86f5a3b48.mp4
-
-https://user-images.githubusercontent.com/33474611/192243474-4cf00d93-303b-4d13-b7d1-39fd0daa4015.mp4
-
-https://user-images.githubusercontent.com/33474611/192243478-258d884c-72af-431f-baa4-2345aaa6e754.mp4
-
-https://user-images.githubusercontent.com/33474611/192243485-0cb16514-cbd8-444a-b7be-dc1b22086b71.mp4
-
-https://user-images.githubusercontent.com/33474611/192243497-3b0bd385-d430-4c5b-80af-b2c5b94da0d8.mp4
-
-https://user-images.githubusercontent.com/33474611/192243528-f3531a77-2248-4f30-9cd4-523d3737e583.mp4
-
-https://user-images.githubusercontent.com/33474611/192243531-c2d43a57-8962-4883-b49a-d65e30237ce0.mp4
-
-https://user-images.githubusercontent.com/33474611/192243549-f92b7655-565b-48f8-9b7f-0ff33c3a4a8e.mp4
-
-https://user-images.githubusercontent.com/33474611/192243561-2f4bacba-8f54-4dee-831c-87305eaa8188.mp4
-
-https://user-images.githubusercontent.com/33474611/192243581-e8e7850b-62c6-4ab1-9c8d-51ce6d4d6809.mp4
-
-https://user-images.githubusercontent.com/33474611/192243596-20e3cb2b-b263-4cd1-914f-d431740083c2.mp4
-
-https://user-images.githubusercontent.com/33474611/193414771-70294d8a-872e-42ed-ac27-84fa95b5634f.mp4
-
-https://user-images.githubusercontent.com/33474611/193414755-102a28b7-873b-497a-9b6a-d2f4c1ef0891.mp4
-
-https://user-images.githubusercontent.com/33474611/193414728-ce69f2a5-dc44-4463-8fbf-0272258bc280.mp4
-
-https://user-images.githubusercontent.com/33474611/193414779-798beda2-3b9b-4af6-aa3e-fc8fc43e31e9.mp4
-
-https://user-images.githubusercontent.com/33474611/193414785-b5518f4f-ba8b-4707-b421-ba7b42bf3eb3.mp4
-
-https://user-images.githubusercontent.com/33474611/193414765-0c2bc3d8-72cc-4bdb-b374-51bb0ea09ef4.mp4
-
-https://user-images.githubusercontent.com/33474611/193414754-f8381a47-24b0-4153-b725-4cc13475e152.mp4
-
-https://user-images.githubusercontent.com/33474611/193414738-56a79986-1e8b-4baf-8116-cc6f4b397c9b.mp4
-
-https://user-images.githubusercontent.com/33474611/193414732-d374e73d-5141-4804-a198-ac0f7c0b7d3b.mp4
-
-https://user-images.githubusercontent.com/33474611/193414715-c7475fd2-230c-49ec-bea4-90ed746f5bbd.mp4
-
-https://user-images.githubusercontent.com/33474611/193414736-d178bcd0-1a63-405f-8cb1-dd4b73a856ed.mp4
-
-https://user-images.githubusercontent.com/33474611/193414749-3d21540d-e9f1-4731-9ffd-3044f2fe5a6a.mp4
-
-https://user-images.githubusercontent.com/33474611/193414726-da13e198-4cc7-4a19-8118-a9d32c7b2cd0.mp4
-
-![f36](https://user-images.githubusercontent.com/33474611/211457964-8e5e1ee4-b265-453a-a8ce-61e3be8d22cd.gif)
-
+<!-- AUTO-GENERATED-LIVE-START -->
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/90s%20Kids%20Room%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/90s%20Kids%20Room%5B1920x1080%5D.mp4">90s Kids Room[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Alone%20On%20A%20Bridge%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Alone%20On%20A%20Bridge%5B1920x1080%5D.mp4">Alone On A Bridge[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Apartment%20Rain%20Window%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Apartment%20Rain%20Window%5B1920x1080%5D.mp4">Apartment Rain Window[1920x1080]</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Boat%20Water%20Lilies%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Boat%20Water%20Lilies%5B1920x1080%5D.mp4">Boat Water Lilies[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Chilling%20With%20My%20Cat%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Chilling%20With%20My%20Cat%5B1920x1080%5D.mp4">Chilling With My Cat[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Code%20Is%20Life%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Code%20Is%20Life%5B1920x1080%5D.mp4">Code Is Life[1920x1080]</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Comfy%20Rain%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Comfy%20Rain%5B1920x1080%5D.mp4">Comfy Rain[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Computer%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Computer%5B1920x1080%5D.mp4">Computer[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Cyberpunk%20Apartment%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Cyberpunk%20Apartment%5B1920x1080%5D.mp4">Cyberpunk Apartment[1920x1080]</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Drive%20Sea%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Drive%20Sea%5B1920x1080%5D.mp4">Drive Sea[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Dune%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Dune%5B1920x1080%5D.mp4">Dune[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Hunt%20Showdown%20-%20Skull%20Crusher%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Hunt%20Showdown%20-%20Skull%20Crusher%5B1920x1080%5D.mp4">Hunt Showdown - Skull Crusher[1920x1080]</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Hunt%20Showdown%20-%20Skull%20Guns%5B3840x2160%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Hunt%20Showdown%20-%20Skull%20Guns%5B3840x2160%5D.mp4">Hunt Showdown - Skull Guns[3840x2160]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Hunt%20Showdown%20-%20Veil%20Of%20Thorns%5B3840x2160%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Hunt%20Showdown%20-%20Veil%20Of%20Thorns%5B3840x2160%5D.mp4">Hunt Showdown - Veil Of Thorns[3840x2160]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Itachi%20Uchiha%20-%20Birds%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Itachi%20Uchiha%20-%20Birds%5B1920x1080%5D.mp4">Itachi Uchiha - Birds[1920x1080]</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/King%20Wash%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/King%20Wash%5B1920x1080%5D.mp4">King Wash[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Lofi%20-%20Vending%20Machines%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Lofi%20-%20Vending%20Machines%5B1920x1080%5D.mp4">Lofi - Vending Machines[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Naruto%20Gang%20Lightning%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Naruto%20Gang%20Lightning%5B1920x1080%5D.mp4">Naruto Gang Lightning[1920x1080]</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Office%20Bioshock%20Infinite%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Office%20Bioshock%20Infinite%5B1920x1080%5D.mp4">Office Bioshock Infinite[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Sakura%20Forest%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Sakura%20Forest%5B1920x1080%5D.mp4">Sakura Forest[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Say%20No%20To%20Captcha%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Say%20No%20To%20Captcha%5B1920x1080%5D.mp4">Say No To Captcha[1920x1080]</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Snowfall%20in%20Forest%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Snowfall%20in%20Forest%5B1920x1080%5D.mp4">Snowfall in Forest[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Sunset%2090s%20Room%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Sunset%2090s%20Room%5B1920x1080%5D.mp4">Sunset 90s Room[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Texting%20You%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Texting%20You%5B1920x1080%5D.mp4">Texting You[1920x1080]</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Townscaper%20%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Townscaper%20%5B1920x1080%5D.mp4">Townscaper [1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Train%20Stop%20-%20Kimi%20Na%20Na%20Wa%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Train%20Stop%20-%20Kimi%20Na%20Na%20Wa%5B1920x1080%5D.mp4">Train Stop - Kimi Na Na Wa[1920x1080]</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Underground%20Pass%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Underground%20Pass%5B1920x1080%5D.mp4">Underground Pass[1920x1080]</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <video src="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Vegeta%20Dragon%20Ball%5B1920x1080%5D.mp4" muted autoplay loop width="100%"></video>
+      <br><sub><a href="https://raw.githubusercontent.com/adityastomar67/Wallpapers/main/Live/Vegeta%20Dragon%20Ball%5B1920x1080%5D.mp4">Vegeta Dragon Ball[1920x1080]</a></sub>
+    </td>
+  </tr>
+</table>
+<!-- AUTO-GENERATED-LIVE-END -->
 </details>
