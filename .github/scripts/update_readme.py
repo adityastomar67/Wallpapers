@@ -73,11 +73,11 @@ def generate_live_section():
 
     # Start building the HTML Table
     html = "<table>\n"
-    columns = 3
+    columns = 1
 
-    # Process files in chunks of 3
+    # Process files
     for i in range(0, len(files), columns):
-        batch = files[i:i+columns]  # type: ignore
+        batch = files[i:i+columns]
         html += "  <tr>\n"
 
         for f in batch:
@@ -85,15 +85,19 @@ def generate_live_section():
             safe_name = urllib.parse.quote(f.name)
 
             # Direct Link
-            raw_url = f"https://{REPO_RAW_HOST}/{LIVE_DIR}/{safe_name}"
+            # Note: For GitHub to render videos properly in markdown, using the github.com/.../raw/main format
+            # works much better than raw.githubusercontent.com which might not stream properly.
+            # Example: https://github.com/adityastomar67/Wallpapers/raw/main/Live/video.mp4
+            repo_base = "github.com/adityastomar67/Wallpapers/raw/main"
+            raw_url = f"https://{repo_base}/{LIVE_DIR}/{safe_name}"
 
-            html += f'    <td align="center" width="33%">\n'
+            html += f'    <td align="center" width="100%">\n'
             # Use img tag for gifs, video for mp4/webm
             if f.suffix.lower() == '.gif':
                 html += f'      <img src="{raw_url}" alt="{f.stem}" width="100%">\n'
             else:
-                html += f'      <video src="{raw_url}" muted autoplay loop width="100%"></video>\n'
-            
+                html += f'      <video src="{raw_url}" muted autoplay loop controls width="100%"></video>\n'
+
             html += f'      <br><sub><a href="{raw_url}">{f.stem}</a></sub>\n'
             html += f'    </td>\n'
 
